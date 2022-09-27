@@ -1,1 +1,5 @@
-My Calculator
+**My Calculator**
+
+```npm install```
+
+```npm start```
