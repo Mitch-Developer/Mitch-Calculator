@@ -1,4 +1,4 @@
-**My Calculator**
+**🌍 My Calculator**
 
 ```npm install```
 
